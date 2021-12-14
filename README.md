@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SunTheDev
 - 👀 Software Engineer
 - 🌱 HTML | CSS | Javascript | Google Analytics
-- 📫 How to reach me ... 412gill@gmail.com
-- LinkedIn + Twitter @SunTheDev
+- 📫 Reach out at ... 412gill@gmail.com
+- 📌 Lets Connect ... LinkedIn + Twitter - @SunTheDev
 
 <!---
 sgill34/sgill34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
