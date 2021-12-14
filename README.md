@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sgill34
+- 👋 Hi, I’m @SunTheDev
 - 👀 Software Engineer
 - 🌱 HTML | CSS | Javascript | Google Analytics
 - 📫 How to reach me ... 412gill@gmail.com
